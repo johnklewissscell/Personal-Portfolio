@@ -23,6 +23,7 @@ header {
   background: linear-gradient(135deg, #247c39, #07fb9d);
   color: white;
   box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+  position: sticky;
 }
 
 header h1 {
